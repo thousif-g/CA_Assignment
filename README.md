@@ -864,6 +864,6 @@ Overall, the project provides practical experience with:
 
 # Author
 
-**[Your Name]**
+**[Gattu Thousif Ahmed]**
 
-GitHub: **[Your GitHub Profile / Repository URL]**
+GitHub: **[https://github.com/thousif-g/CA_Assignment]**
